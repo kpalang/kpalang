@@ -2,7 +2,7 @@
 
 ### My stuff related to NextGen Connect
 - 🔌 [A transmission mode provider for Diesse Cube 30 Touch erythrocyte sedimentation rate analyzer](https://github.com/kpalang/mirth-transmissionmode-cube30touch)
-- 📦 [A Maven repository for Connect jarfiles](https://nexus.kaurpalang.com/#browse/browse:maven-public:com%2Fmirth)
+- 📦 [A Maven repository for Connect jarfiles](https://maven.kaurpalang.com/#browse/browse:maven-public:com%2Fmirth)
 - 📖 [A guide to writing plugins](https://github.com/kpalang/mirth-plugin-guide)
 - 🔌 [A sample plugin](https://github.com/kpalang/mirth-sample-plugin)
 - 🔌 [A Maven plugin for Connect plugins](https://github.com/kpalang/mirth-plugin-maven-plugin)
