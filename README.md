@@ -7,4 +7,4 @@
 - 🔌 [A sample plugin](https://github.com/kpalang/mirth-sample-plugin)
 - 🔌 [A Maven plugin for Connect plugins](https://github.com/kpalang/mirth-plugin-maven-plugin)
 - 🐳 A supporting Docker image to use when writing plugins: [Docker Hub](https://hub.docker.com/r/kpalang/connect/), [Github](https://github.com/kpalang/mirth-plugin-dev-docker)
-- 🔥 [A REST API for requesting different download links related to Mirth](https://github.com/kpalang/mirth-resources-api)
+- 🔥 [A thingy to get Mirth release data programmatically](https://github.com/kpalang/mirth-releases-api)
