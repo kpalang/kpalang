@@ -1,5 +1,8 @@
-### My stuff
+### Hacking proprietary crap into less proptrietary crap
+
+Why is this even a necessity?!
 - :closed_lock_with_key: [Dockerized AWS VPN Client](https://github.com/kpalang/aws-vpn-client-docker)
+- :iphone: [Okta Verify in Aegis](https://github.com/kpalang/okta-verify-with-aegis)
 
 ### My stuff related to NextGen Connect
 - 🔌 [A transmission mode provider for Diesse Cube 30 Touch erythrocyte sedimentation rate analyzer](https://github.com/kpalang/mirth-transmissionmode-cube30touch)
