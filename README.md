@@ -1,4 +1,4 @@
-### Hacking proprietary crap into less proptrietary crap
+### Hacking proprietary crap into less proprietary crap
 
 Why is this even a necessity?!
 - :closed_lock_with_key: [Dockerized AWS VPN Client](https://github.com/kpalang/aws-vpn-client-docker)
